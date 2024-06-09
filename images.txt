@@ -1,3 +1,10 @@
-alpine
-kasmweb/nginx:1.25.3
-python:alpine3.19
+gotson/komga:latest
+lovechen/embyserver:latest
+lovechen/embyserver:4.7.14.0
+lovechen/embyserver:4.8.0.21
+fogforest/yesplaymusic:latest
+metacubex/clash-meta:Alpha
+amilys/embyserver:latest
+amilys/embyserver:beta
+hanxi/xiaomusic:latest
+metacubex/mihomo:Alpha
